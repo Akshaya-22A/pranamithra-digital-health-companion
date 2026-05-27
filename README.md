@@ -35,5 +35,4 @@ Prana Mithra acts as a **digital health companion** that helps people check symp
 * 🌱 **Preserves traditional knowledge** by integrating local herbal remedies and stories.
 * 🛡️ **Proactive care** with outbreak prediction and early pregnancy risk detection.
 
-### **App Link**
-🔗 https://pranamithra.vercel.app
+
